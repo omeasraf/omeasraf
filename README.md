@@ -2,4 +2,4 @@
 - 👀 I’m interested in making new apps and finding a job 😁
 - 🌱 I’m currently learning C++, Java and Dart.
 - 💞️ I’m looking to collaborate on any projects.
-- 📫 You can read more about me at [Ami Asraf](https://amiasraf.me)
+- 📫 You can read more about me at [Ome Asraf](https://omeasraf.com)
